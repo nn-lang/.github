@@ -1,3 +1,3 @@
 # nn-lang
 
-![nn-logo](files/logo.svg)
+![nn-logo](../files/logo.svg)
